@@ -1,0 +1,311 @@
+
+
+@media (max-width: 1399.98px) {
+  
+}
+@media (max-width: 1199.98px) {
+
+}
+
+@media (max-width: 1024.98px) {
+
+.BannerWrapper{
+  height: unset;
+  padding: 146.38px 0 0px;
+}
+.BannerWrapper .container {
+  position: relative;
+  left: unset;
+  top: unset;
+  right: unset;
+  transform: unset;
+  width: auto;
+}
+
+.ProfileImg{
+  position: static;
+  height: auto;
+  margin-top: 24px;
+}
+.ProfileImg img{
+  height: auto;
+  width: 100%;
+}
+
+}
+
+@media screen and (device-width: 1024px) and (device-height: 600px) and (orientation: landscape) {
+
+.ProfileImg{
+  position: absolute;
+  right: 5%;
+  height: 90%;
+  bottom: 0;
+  margin-top: 0px;
+}
+.ProfileImg img{
+  height: 100%;
+  width: auto;
+}
+
+}
+
+
+
+@media (max-width: 991.98px) {
+
+
+  .footer .container > .row {
+    row-gap: 30px;
+  }
+
+  .navLink {
+    color: var(--greyText);
+    padding: 12px 8px;
+}
+.navLink.active {
+  color: #ffffff;
+}
+.navMenu {
+  gap: 4px;
+}
+
+
+}
+
+@media screen and (max-width: 820px) and (orientation: landscape) {
+  .BannerWrapper {
+    height: unset;
+    padding: 146.38px 0 0px;
+  }
+  .BannerWrapper .container {
+    position: relative;
+    left: unset;
+    top: unset;
+    right: unset;
+    transform: unset;
+    width: auto;
+  }
+  .ProfileImg {
+    position: static;
+    height: auto;
+    margin-top: 24px;
+  }
+  .ProfileImg img {
+    height: auto;
+    width: 100%;
+  }
+}
+
+
+
+
+@media (max-width: 767.98px) {
+  .footer,
+  .footer .secH{
+    text-align: center;
+  }
+  
+  .defaultPadding {
+    padding: 50px 0;
+  }
+  .footer.defaultPadding {
+    padding: 34px 0;
+  }
+  .footer .secH {
+    margin-bottom: 24px;
+  }
+  .footWrap > .row {
+    justify-content: center;
+    align-items: center;
+    row-gap: 40px;
+    flex-direction: column;
+  }
+   .footer .social-icons {
+    justify-content: center;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .footer .exploreLinks ul li,
+  .footer .exploreLinks1 ul li {
+    text-align: left;
+  }
+  .footer-brand {
+    display: table !important;
+    margin: auto;
+  }
+  .footer .locationLink {
+    max-width: 304px;
+  }
+ 
+  .footer .exploreLinks1 ul {
+    max-width: 352px;
+    margin: auto;
+  }
+  .footer .exploreLinks ul {
+    width: 134px;
+    max-width: 134px !important;
+    margin: auto;
+  }
+  .footer ul.contact-info{
+    width: 318.5px;
+    max-width: 318.5px;
+  }
+
+  .footer.homePage0{
+    padding-top: 123px;
+  }
+
+  
+
+.gridParent {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(14, auto);
+    gap: 24px;
+}
+    
+.project1 {
+    grid-column: span 5 / span 5;
+    grid-row: span 4 / span 4;
+}
+
+.project2 {
+    grid-column: span 2 / span 2;
+    grid-row: span 3 / span 3;
+    grid-row-start: 5;
+}
+
+.project3 {
+    grid-column: span 3 / span 3;
+    grid-row: span 3 / span 3;
+    grid-column-start: 3;
+    grid-row-start: 5;
+}
+
+.project4 {
+    grid-column: span 5 / span 5;
+    grid-row: span 3 / span 3;
+    grid-row-start: 8;
+}
+
+.project5 {
+    grid-column: span 5 / span 5;
+    grid-row: span 4 / span 4;
+    grid-row-start: 11;
+}
+
+.wrap4 {
+    perspective: 1388px;
+}
+
+.wrap5 {
+    perspective: 1374px;
+}
+    
+.wrap5 {
+    perspective: 1374px;
+}
+
+.wrap1 .mockup1{
+    position: absolute;
+    width: 38.4%;
+    height: 43.1%;
+    left: 14%;
+    top: 16.3%;
+    transform: rotateY(8deg) rotateX(11deg) skewY(358deg);
+    transform-origin: bottom;
+    transform-style: preserve-3d;
+    overflow: hidden;
+}
+    
+        
+
+}
+
+@media (max-width: 575.98px) {
+ 
+
+  .footer .fourthH {
+    margin-bottom: 20px;
+  }
+
+  .BannerWrapper{
+    height: unset;
+    padding: 146.38px 0 0px;
+  }
+  .BannerWrapper .container {
+    position: relative;
+    left: unset;
+    top: unset;
+    right: unset;
+    transform: unset;
+    width: auto;
+  }
+
+   .ProfileImg{
+    position: static;
+    height: auto;
+    margin-top: 24px;
+  }
+  .ProfileImg img{
+    height: auto;
+    width: 100%;
+  }
+
+}
+
+@media only screen and (max-height: 539.98px) {
+  .BannerWrapper{
+    height: unset;
+    padding: 146.38px 0 0px;
+  }
+  .BannerWrapper .container {
+    position: relative;
+    left: unset;
+    top: unset;
+    right: unset;
+    transform: unset;
+    width: auto;
+  }
+
+  .ProfileImg{
+    position: static;
+    height: auto;
+    margin-top: 24px;
+  }
+  .ProfileImg img{
+    height: auto;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-height: 539.98px) and (max-width: 1024px) {
+  .BannerWrapper{
+    height: unset;
+    padding: 146.38px 0 80px;
+  }
+  .BannerWrapper .container {
+   position: relative;
+    left: unset;
+    top: unset;
+    right: unset;
+    transform: unset;
+    width: auto;
+  }
+
+.ProfileImg{
+  position: absolute;
+  right: 5%;
+  height: 90%;
+  bottom: 0;
+  margin-top: 0px;
+}
+.ProfileImg img{
+  height: 100%;
+  width: auto;
+}
+
+}
+
